@@ -1,0 +1,13 @@
+.pokeball-icon{
+position: absolute;
+top: -80px;
+left: -180px;
+z-index: -1;
+user-select: none;
+}
+
+.left{
+display: flex;
+flex-direction: column;
+margin: 0 10vw;
+}
