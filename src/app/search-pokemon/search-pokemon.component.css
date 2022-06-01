@@ -6,7 +6,7 @@ background-color: white;
 width: 100%;
 border-radius: 20px;
 margin: 30px 10px;
-padding: 0 20px;
+padding: 0 15 px;
 overflow: hidden;
 position: relative;
 outline: none;
@@ -19,7 +19,8 @@ box-shadow: #ededed 0 10px 10px;
   outline: none;
   width: 100%;
   font-size: 20px;
-  padding: 25px;
+  padding: 20px;
+  font-size: 18px;
 }
 
 .search-button{
@@ -29,8 +30,8 @@ box-shadow: #ededed 0 10px 10px;
   background-color: #FF5350;
   box-shadow: #ff535088 5px 5px 15px;
   border-radius: 10px;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   cursor: pointer;
 
 }

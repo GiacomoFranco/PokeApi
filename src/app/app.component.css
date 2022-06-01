@@ -6,6 +6,11 @@ z-index: -1;
 user-select: none;
 }
 
+app-pokemon-gallery{
+  display: flex;
+  flex-flow: row wrap;
+}
+
 .left{
 display: flex;
 flex-direction: column;
